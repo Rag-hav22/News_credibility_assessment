@@ -1,5 +1,6 @@
 [[README]] 
 [[01_Timeline.md]] 
+[[methodology]] 
 ## **Project overview**
 
 > Title: Natural Language Processing and Conversational AI for Fake News Detection  

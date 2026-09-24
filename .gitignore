@@ -1,0 +1,23 @@
+# Python, Virtual Environments, and Jupyter
+venv/
+env/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Datasets & Model Weights (Too large for GitHub)
+data/
+saved_models/
+*.csv
+*.json
+*.parquet
+*.h5
+*.pth
+*.bin
+*.onnx
+*.pkl
+
+# IDE & OS Files
+.vscode/
+.DS_Store
+Thumbs.db

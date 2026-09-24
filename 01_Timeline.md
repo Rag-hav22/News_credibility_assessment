@@ -17,3 +17,8 @@ gantt
     Build FastAPI Backend   :api, after m3, 5d
     Streamlit Dashboard     :after api, 4d
 ```
+- **Phase 1 (The Core):** Text + Web Metadata. These are computationally cheap, share similar tabular data structures, and have the most open-source datasets available.
+    
+- **Phase 2 (The Visuals):** Image Pipeline. Requires setting up computer vision environments and larger datasets.
+    
+- **Phase 3 (The Heavy Lifter):** Video Pipeline. Easiest to do _last_, because it relies heavily on the Image and Text pipelines to analyze the frames and text it extracts.

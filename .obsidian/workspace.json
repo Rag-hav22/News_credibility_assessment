@@ -11,10 +11,14 @@
             "id": "36d33e47ef04bfef",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "01_Timeline.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "01_Timeline"
             }
           }
         ]
@@ -186,6 +190,12 @@
   },
   "active": "36d33e47ef04bfef",
   "lastOpenFiles": [
+    "predict.py",
+    "fake_news.ipynb",
+    "Untitled.ipynb",
+    "data/WELFake_Dataset.csv",
+    "methodology.md",
+    "News verification model.md",
     "github/ISSUE_TEMPLATE/feature_request.md.md",
     "src",
     "notebooks",
@@ -195,7 +205,6 @@
     "github/ISSUE_TEMPLATE",
     "github",
     "01_Timeline.md",
-    "News verification model.md",
     "README.md"
   ]
 }
